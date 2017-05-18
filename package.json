@@ -1,0 +1,14 @@
+{
+  "name": "node-todo",
+  "version": "0.0.0",
+  "description": "todo application.",
+  "main": "server.js",
+  "author": "Sameh",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "morgan": "*"
+  }
+}
